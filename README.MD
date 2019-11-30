@@ -1,1 +1,1 @@
-# boilerplate for API with ExpressJs
+# server authenticate sso application
